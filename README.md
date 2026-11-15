@@ -2,7 +2,7 @@
 
 # Hola, soy David 👋
 
-### ADE + Data Science + Cloud Computing
+### Data Science + Cloud Computing
 
 *Entiendo el negocio, diseño e integro la solución y la despliego.*
 
