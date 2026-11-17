@@ -13,9 +13,8 @@
 ##  Tecnologías
 
 -  **Lenguajes:** Python · SQL
--  **Librerías:** pandas · NumPy · seaborn · scikit-learn · PyTorch · Transformers · LangChain · Streamlit
 -  **Cloud:** AWS · Azure · Databricks
--  **BI:** Power BI · Excel · n8n 
+-  **Other tools:** Power BI · Excel · n8n · Docker
 
 <br/>
 
