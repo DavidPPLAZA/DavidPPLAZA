@@ -10,12 +10,4 @@
 
 <br/>
 
-##  Tecnologías
-
--  **Lenguajes:** Python · SQL
--  **Cloud:** AWS · Azure · Databricks
--  **Other tools:** Power BI · Excel · n8n · Docker
-
-<br/>
-
 
