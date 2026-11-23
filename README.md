@@ -1,16 +1,13 @@
-<div align="center">
-# Hola, soy David 👋
- 
-### Data Science + Cloud Computing
- 
-*Entiendo el negocio, diseño e integro la solución y la despliego.*
- 
-</div>
+<h1 align="center">Hola, soy David 👋</h1>
+
+<h3 align="center">Data Science + Cloud Computing</h3>
+
+<p align="center"><i>Entiendo el negocio, diseño e integro la solución y la despliego.</i></p>
+
 <br/>
-<div align="center">
-Proyectos guapos
- 
-</div>
+
+<h2 align="center">🚀 Proyectos guapos</h2>
+
 <table align="center">
   <tr>
     <td width="50%" valign="top" align="center">
@@ -18,7 +15,7 @@ Proyectos guapos
       <sub><b>Agente de IA con ojos y manos que convierte una explicación en un robot RPA determinista</b></sub>
       <br/><br/>
       <a href="https://github.com/DavidPPLAZA/AUTOMATIZACI-N-CON-RPA-AGENTE-MULTIMODAL-DE-VISI-N">
-        <img src="interfaz%20automatizacion.png" alt="Plataforma Automatizando la automatización" width="100%"/>
+        <img src="interfaz-automatizacion.png" alt="Plataforma Automatizando la automatización" width="100%"/>
       </a>
       <br/><br/>
       <p align="left">
@@ -75,4 +72,3 @@ Proyectos guapos
     </td>
   </tr>
 </table>
- 
