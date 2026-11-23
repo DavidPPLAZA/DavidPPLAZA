@@ -6,7 +6,7 @@
 
 <br/>
 
-<h2 align="center">🚀 Proyectos guapos</h2>
+<h2 align="center">Proyectos guapos</h2>
 
 <table align="center">
   <tr>
