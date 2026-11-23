@@ -12,7 +12,7 @@
   <tr>
     <td width="50%" valign="top" align="center">
       <h3>🦥 Automatizando la automatización</h3>
-      <sub><b>Agente de IA con ojos y manos que convierte una explicación en un robot RPA determinista</b></sub>
+      <sub><b>Agente de IA con herramientas de visión y clics convierte una explicación en un robot RPA determinista</b></sub>
       <br/><br/>
       <a href="https://github.com/DavidPPLAZA/AUTOMATIZACI-N-CON-RPA-AGENTE-MULTIMODAL-DE-VISI-N">
         <img src="interfaz-automatizacion.png" alt="Plataforma Automatizando la automatización" width="100%"/>
