@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy David 👋</h1>
+<h1 align="center">Hola, soy David </h1>
 
 <h3 align="center">Data Science + Cloud Computing</h3>
 
@@ -42,7 +42,7 @@
     </td>
     <td width="50%" valign="top" align="center">
       <h3>🍳 Recetario Inteligente</h3>
-      <sub><b>RAG multimodal con entrada y salida por voz</b></sub>
+      <sub><b>RAG multimodal de recomendación de recetas en base a ingredientes con entrada y salida por voz</b></sub>
       <br/><br/>
       <a href="https://github.com/DavidPPLAZA/Natural-Language-Processing-project">
         <img src="recetario-inteligente.png" alt="Interfaz del Recetario Inteligente" width="100%"/>
