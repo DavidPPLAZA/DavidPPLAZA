@@ -8,7 +8,7 @@
 </div>
 <br/>
 <div align="center">
-## 🚀 Proyectos guapos
+Proyectos guapos
  
 </div>
 <table align="center">
