@@ -15,7 +15,7 @@
       <sub><b>Agente de IA con herramientas de visión y clics convierte una explicación en un robot RPA determinista</b></sub>
       <br/><br/>
       <a href="https://github.com/DavidPPLAZA/AUTOMATIZACI-N-CON-RPA-AGENTE-MULTIMODAL-DE-VISI-N">
-        <img src="interfaz-automatizacion.png" alt="Plataforma Automatizando la automatización" width="100%"/>
+        <img src="interfaz-automatizacionV2.png" alt="Plataforma Automatizando la automatización" width="100%"/>
       </a>
       <br/><br/>
       <p align="left">
